@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Abil Prasad | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+    }
+    h2 {
+      color: #2c3e50;
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Abil Prasad</h1>
+  <p>B.Sc Data Science Student</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am a B.Sc Data Science student with knowledge of Python, SQL, Excel,
+    and Data Analysis. I am looking for entry-level opportunities to start my career.
+  </p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>Python</li>
+    <li>SQL</li>
+    <li>Excel</li>
+    <li>Data Analysis</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <p>Customer Segmentation using K-Means</p>
+  <p>Student Dropout Prediction</p>
+  <p>Weather Data Analyzer</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: abilprasad64@gmail.com</p>
+  <p>Phone: +91 8075953813</p>
+</section>
+
+<footer>
+  <p>© 2026 Abil Prasad</p>
+</footer>
+
+</body>
+</html>
